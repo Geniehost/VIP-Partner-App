@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>375842195072-6mc4ua7ehkvmdbtorum9hlpi8f21bcnt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.375842195072-6mc4ua7ehkvmdbtorum9hlpi8f21bcnt</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>375842195072-qdpbdgtde8bl5fjpvlkgk50j7ih5j5gp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAcdsfIiWXH9grpU6omfntaFDC7S1eqqio</string>
+	<key>GCM_SENDER_ID</key>
+	<string>375842195072</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vipsprovider.app</string>
+	<key>PROJECT_ID</key>
+	<string>the-vips-pro</string>
+	<key>STORAGE_BUCKET</key>
+	<string>the-vips-pro.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:375842195072:ios:db748a9fa4a6719905c865</string>
+</dict>
+</plist>
